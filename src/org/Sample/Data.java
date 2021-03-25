@@ -7,6 +7,7 @@ public static void main(String[] args) {
    int c=30;
    System.out.println(a+b);
    System.out.println(c);
+   System.out.println("check");
 	
 }
 }
